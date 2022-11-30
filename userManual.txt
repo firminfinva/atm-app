@@ -1,0 +1,10 @@
+• When you are using the ATM, stand in front of the machine to be
+able to cover the ATM screen, keypad and cash dispenser. This is
+important for security.
+• The home page of our atm has an input entry label to grab code (pin)
+• After validation, the next menu allow to choose the account you want to use.
+ you can choose between savings and checking account
+• For either choose, a menu with withdraw ,deposit and balance buttons will  be display.
+   • For withdrawal , click on the withdraw buttom , then select or enter the amount manually.
+   • For deposit , click on the deposit buttom , then enter the amount manually.
+   • For checking your balance, click on the balance button.
